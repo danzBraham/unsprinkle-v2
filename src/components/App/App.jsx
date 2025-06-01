@@ -1,11 +1,10 @@
-import React from 'react';
-import styled from 'styled-components';
+import styled from "styled-components";
 
-import GlobalStyles from '../GlobalStyles';
-import Header from '../Header';
-import Hero from '../Hero';
-import MainContent from '../MainContent';
-import Footer from '../Footer';
+import GlobalStyles from "../GlobalStyles";
+import Header from "../Header";
+import Hero from "../Hero";
+import MainContent from "../MainContent";
+import Footer from "../Footer";
 
 const App = () => {
   return (
